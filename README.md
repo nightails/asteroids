@@ -1,5 +1,8 @@
 # Asteroids To-do:
 
+> [!WARNING]
+> This project is currently being re-written from Python to Go.
+
 - [ ] Add a scoring system
 - [ ] Implement multiple lives and re-spawning
 - [ ] Add an explosion effect for the asteroids
